@@ -1,4 +1,4 @@
 "hello world"
-
-do hello_world
 end-of-input
+hello_world
+
